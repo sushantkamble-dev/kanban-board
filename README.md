@@ -21,15 +21,12 @@ Kanban Board is a pet project built in React JS aiming to create a simplified cl
 
 ## Getting Started
 
-1. Clone the repository:
+```bash
+cd kanban-board
+npm install
+npm start
+```
 
-   ```bash
-   git clone https://github.com/your-username/kanban-board.git
-   cd kanban-board
-   npm install
-   npm start
-    ```
-    
 ## Live Demo
 1. Follow the following url to access the deployed application: [Live Demo](https://main--loquacious-longma-371537.netlify.app/)
 2. On the login page, Click on *"Login as Guest"* to view a pre-populated template
